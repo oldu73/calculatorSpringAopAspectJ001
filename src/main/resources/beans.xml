@@ -10,11 +10,11 @@
     <aop:aspectj-autoproxy />
 
     <bean id="arithmeticCalculator"
-          class="tmp.ArithmeticCalculatorImpl"/>
+          class="ArithmeticCalculatorImpl"/>
 
     <bean id="unitCalculator"
-          class="tmp.UnitCalculatorImpl"/>
+          class="UnitCalculatorImpl"/>
 
-    <bean class="tmp.CalculatorLoggingAspect"/>
+    <bean class="CalculatorLoggingAspect"/>
 
 </beans>

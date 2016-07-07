@@ -1,5 +1,3 @@
-package tmp;
-
 public interface UnitCalculator {
 
     double kilogramToPouind(double kilogram);

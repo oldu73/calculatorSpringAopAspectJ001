@@ -1,5 +1,3 @@
-package tmp;
-
 public interface ArithmeticCalculator {
 
     double add(double a, double b);

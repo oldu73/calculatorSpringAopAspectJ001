@@ -1,5 +1,3 @@
-package tmp;
-
 public class ArithmeticCalculatorImpl implements ArithmeticCalculator{
     public double add(double a, double b) {
         double result = a + b;

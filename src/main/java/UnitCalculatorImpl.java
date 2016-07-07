@@ -1,5 +1,3 @@
-package tmp;
-
 public class UnitCalculatorImpl implements UnitCalculator{
     public double kilogramToPouind(double kilogram) {
         double pound = kilogram * 2.2;
